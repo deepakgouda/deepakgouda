@@ -16,6 +16,3 @@
 <a href="https://github.com/deepakgouda/StockPricePrediction">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakgouda&repo=StockPricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/deepakgouda/ParallelComputing">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakgouda&repo=ParallelComputing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
