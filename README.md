@@ -8,7 +8,7 @@
 - 📫 Mail me at [deepakgouda1729@gmail.com](mailto:deepakgouda1729@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/deepakgouda/) or [Twitter](https://twitter.com/deepakgouda_)
 - 💝 I also adore trekking, travel and photography. Find my shots on [Instagram](https://www.instagram.com/deepak.gouda_/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=deepakgouda&theme=radical&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=deepakgouda&theme=radical&count_private=true" />
 
 <a href="https://github.com/deepakgouda/BlockEval">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakgouda&repo=BlockEval&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
