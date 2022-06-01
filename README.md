@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there!
 
 - 🔭 I’m currently working at an algorithmic trading firm
 - 🌱 I actively work on Statistics, Data Analysis and Machine Learning methods
