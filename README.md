@@ -1,7 +1,7 @@
 # Hi there!
 
 - 🔭 I’m a graduate student at [College of Computing, Georgia Tech](cc.gatech.edu/)
-- 🌱 I actively work on Machine Learning methods and their applications to secure internet data
+- 🌱 I actively work on Machine Learning methods and their applications to secure the internet
 - ⚡ Fun fact: I used to work as an algorithmic trader, where I eventually built a trading division from scratch
 - ✨ Bonus : I also love discussing geography and history facts, playing CTFs, digital forensics, pentesting and praying linux gods
 - 💬 Find my articles [here](https://deepakgouda.github.io/blog/)
