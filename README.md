@@ -3,7 +3,7 @@
 - 🔭 I’m a graduate student at [College of Computing, Georgia Tech](cc.gatech.edu/)
 - 🌱 I actively work on Machine Learning methods and their applications to secure the internet
 - ⚡ Fun fact: I used to work as an algorithmic trader, where I eventually built a trading division from scratch
-- ✨ Bonus : I also love discussing geography and history facts, playing CTFs, digital forensics and praying linux gods
+- ✨ Bonus : I also love discussing geography, history, CTFs, digital forensics and praising linux gods
 - 💬 Find my articles [here](https://deepakgouda.github.io/blog/)
 - 📫 Mail me at [deepakgouda1729@gmail.com](mailto:deepakgouda1729@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/deepakgouda/) or [Twitter](https://twitter.com/deepakgouda_)
 - 💝 I also adore trekking, travel and photography. Find my shots on [Instagram](https://www.instagram.com/deepak.gouda_/)
